@@ -34,7 +34,11 @@
 
 ---
 以前のECサンプル一例
-<video src="ECサンプル一例.mp4" type="video/mp4" controls>
+<video width="640" height="360" controls>
+    <source src="ECサンプル例.mp4" type="video/mp4">
+    お使いのブラウザは video タグをサポートしていません。
+</video>
+
 ---
 ## 証券関係システムの考えポイントは
 - アカウント管理。顧客さまのアカウントは、残高、取引履歴、入出金管理など情報と機能が必要。
