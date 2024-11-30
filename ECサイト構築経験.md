@@ -34,10 +34,8 @@
 
 ---
 以前のECサンプル一例
-<video width="640" height="360" controls>
-    <source src="https://www.seisoul.com/wp-content/uploads/2023/10/%E5%85%B1%E9%80%9A%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%EF%BC%94.mp4" type="video/mp4">
-    お使いのブラウザは video タグをサポートしていません。
-</video>
+
+[クリックしてビデオを確認する](https://www.seisoul.com/wp-content/uploads/2023/10/%E5%85%B1%E9%80%9A%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%EF%BC%94.mp4)
 
 ---
 ## 証券関係システムの考えポイントは
